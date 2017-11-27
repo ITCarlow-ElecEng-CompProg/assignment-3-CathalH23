@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507558352 source:d:\2nd year\computer prog\lab exercise\standard deviation\main.cpp
+	<iostream>
+	<math.h>
+
